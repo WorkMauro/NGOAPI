@@ -1,0 +1,24 @@
+{
+  "name": "npnalx-api",
+  "version": "1.0.0",
+  "description": "API Desenvolvida para uso da ong Nos por nos em parceria com a ALX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mauro Argenti Neto",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1",
+    "multer": "^1.4.5-lts.1",
+    "react-router-dom": "^6.23.1",
+    "vite": "^5.2.12"
+  }
+}
